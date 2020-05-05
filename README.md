@@ -1,2 +1,2 @@
 # test
-This is where I manage the code. Write it .
+This is where I manage the code.
