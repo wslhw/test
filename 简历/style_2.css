@@ -1,0 +1,30 @@
+.all{
+    width: 800px;
+    height: 850px;
+    border: rgb(209, 208, 207) solid 1px;
+    margin: auto auto;
+}
+.head{
+    width: 200px;
+    height: 850px;
+    background-color: rgb(27, 174, 233);
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    letter-spacing: 10px;
+    font-size: 25px;
+    border-right:rgb(209, 208, 207) solid 2px;
+}
+.box-1{
+    width: 580px;
+    height: 80px;
+   margin-left: 210px;
+
+}
+.box-2{
+    width: 580px;
+    height: 200px;
+   margin-left: 210px;
+
+}

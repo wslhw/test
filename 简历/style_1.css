@@ -1,0 +1,29 @@
+.all{
+    width: 600px;
+    height: 900px;
+   border: rgb(150, 149, 149) solid 1px;
+   margin: auto auto;
+}
+.head{
+    width: 580px;
+    height: 30px;
+    margin: auto auto;
+  
+}
+.one{
+    width: 580px;
+    height: 80px;
+    margin: auto auto;
+  
+}
+.two{
+    width: 580px;
+    height: 200px;
+    margin: auto auto;
+  
+  
+  
+}
+
+  
+  
