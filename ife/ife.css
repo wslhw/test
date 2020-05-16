@@ -1,0 +1,108 @@
+.logo{
+    width: 100%;
+    height: 30px;
+    background-color:#333333 ;
+    color: white;
+    font-size: 15px;
+    line-height: 30px;
+}
+.head{
+    background-color: #66BB33;
+    width: 100%;
+    height: 200px;
+    position: relative;
+
+}
+.head-box{
+    width: 200px;
+    height: 40px;
+    float: left;
+   bottom: 10px;
+   right: 150px;
+    position: absolute;
+}
+.head-sbox{
+    width: 30px;
+    height: 25px;
+    background-color: #B2DD99;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 12px;
+}
+.head-sbox:hover{
+    background-color: #E0F1D6;
+    height: 40px;
+}
+.box{
+    width: 100%;
+    height: 500px;
+    background-color: white ;
+}
+.box-head{
+    width: 100%;
+    height:40px ;
+    border-bottom:#DDDDDD solid 1px;
+    background-color: white;
+    position: relative;
+}
+.box-A{
+    width: 400px;
+    height: 40px;
+    margin-left: 220px;
+    position: absolute;
+}
+.box-a{
+    width:90px ;
+    height: 30px;
+    border-radius: 20px 20px 0px 0px;
+    border:#DDDDDD solid 1px;
+    margin-top: 9px;
+    float: left;
+    text-align: center;
+    line-height: 30PX;
+    font-size: 12PX;
+}
+.box-a:hover {
+    border-bottom: white solid 3px;
+
+}
+
+.box-B{
+    width: 900px;
+    height: 400px;
+    margin-left: 210PX;
+}
+.box-b{
+    width: 250px;
+    height: 120px;
+    border: #DDDDDD solid 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+    line-height: 120px;
+    font-size: 15px;
+
+}
+.box-c{
+    width: 184px;
+    height: 120px;
+    border: #DDDDDD solid 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    text-align: center;
+   line-height:120px;
+    font-size: 15px;
+}
+.end{
+    width: 100%;
+    height: 100px;
+    background-color:#333333 ;
+    color: white;
+    font-size: 15px;
+    line-height: 50px;
+}
